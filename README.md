@@ -1,3 +1,5 @@
+Task: Simple NN for Text Sentiment Analysis
+
 Packages: Numpy, Tensorflow
 
 model: Sequential Neural Network
